@@ -1,5 +1,5 @@
 /*
-Procedimiento AGR_INTERCAMBIO_PARTICION.
+Procedimiento INTERCAMBIO_PARTICION.
 Transfiere una partición, de una fecha determinada, de una tabla origen a otra destino.
 
 Parámetros: @v_source_tab_name. Nombre de la tabla cuya partición se quiere transferir.
