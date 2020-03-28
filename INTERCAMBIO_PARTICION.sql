@@ -2,8 +2,8 @@
 Procedimiento INTERCAMBIO_PARTICION.
 Transfiere una partición, de una fecha determinada, de una tabla origen a otra destino.
 Parámetros: @v_source_tab_name. Nombre de la tabla cuya partición se quiere transferir.
-			@v_target_tab_name. Nombre de la tabla a la que se quiere transferir la partición.
-			@v_date. Fecha de la partición a transferir (la fecha está dentro del intervalo de la partición).					
+	    @v_target_tab_name. Nombre de la tabla a la que se quiere transferir la partición.
+	    @v_date. Fecha de la partición a transferir (la fecha está dentro del intervalo de la partición).					
 					
 Incluye output de errores y eventos.			
 */
